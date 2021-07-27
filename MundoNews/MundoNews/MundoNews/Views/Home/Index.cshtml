@@ -1,0 +1,28 @@
+﻿@model List<MundoNews.Models.DataObjects.NewsObject>
+@{    
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="news text-center">
+    @foreach (var noticia in Model)
+    {
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <h1>@noticia.Title</h1>
+            </div>
+        </div>
+        <img src="@noticia.ImgUrl" class="img-fluid" alt="Ir a la noticia" />
+        <br /><br /><br /><br />
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <p>@noticia.Description</p>
+            </div>
+        </div>
+        <br /><br />
+    }
+</div>
