@@ -1531,6 +1531,37 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "MundoNews.DistributedService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.15",
+          "MundoNews.Domain": "1.0.0",
+          "NewsAPI": "0.6.0"
+        },
+        "compile": {
+          "bin/placeholder/MundoNews.DistributedService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MundoNews.DistributedService.dll": {}
+        }
+      },
+      "MundoNews.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.15",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.15",
+          "Microsoft.AspNetCore.Identity.UI": "3.1.15",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.15"
+        },
+        "compile": {
+          "bin/placeholder/MundoNews.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MundoNews.Domain.dll": {}
+        }
       }
     }
   },
@@ -5710,6 +5741,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "MundoNews.DistributedService/1.0.0": {
+      "type": "project",
+      "path": "../MundoNews.DistributedService/MundoNews.DistributedService.csproj",
+      "msbuildProject": "../MundoNews.DistributedService/MundoNews.DistributedService.csproj"
+    },
+    "MundoNews.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MundoNews.Domain/MundoNews.Domain.csproj",
+      "msbuildProject": "../MundoNews.Domain/MundoNews.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5719,6 +5760,8 @@
       "Microsoft.AspNetCore.Identity.UI >= 3.1.15",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.15",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.15",
+      "MundoNews.DistributedService >= 1.0.0",
+      "MundoNews.Domain >= 1.0.0",
       "NewsAPI >= 0.6.0"
     ]
   },
@@ -5748,7 +5791,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\odali\\source\\repos\\josephpatri\\Personal\\MundoNews\\MundoNews\\MundoNews.DistributedService\\MundoNews.DistributedService.csproj": {
+              "projectPath": "C:\\Users\\odali\\source\\repos\\josephpatri\\Personal\\MundoNews\\MundoNews\\MundoNews.DistributedService\\MundoNews.DistributedService.csproj"
+            },
+            "C:\\Users\\odali\\source\\repos\\josephpatri\\Personal\\MundoNews\\MundoNews\\MundoNews.Domain\\MundoNews.Domain.csproj": {
+              "projectPath": "C:\\Users\\odali\\source\\repos\\josephpatri\\Personal\\MundoNews\\MundoNews\\MundoNews.Domain\\MundoNews.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

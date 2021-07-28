@@ -14,4 +14,9 @@
     <PackageReference Include="NewsAPI" Version="0.6.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MundoNews.DistributedService\MundoNews.DistributedService.csproj" />
+    <ProjectReference Include="..\MundoNews.Domain\MundoNews.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

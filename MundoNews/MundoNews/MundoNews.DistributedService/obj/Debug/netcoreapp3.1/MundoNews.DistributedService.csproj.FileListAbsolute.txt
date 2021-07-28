@@ -1,0 +1,15 @@
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\bin\Debug\netcoreapp3.1\MundoNews.DistributedService.deps.json
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\bin\Debug\netcoreapp3.1\MundoNews.DistributedService.runtimeconfig.json
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\bin\Debug\netcoreapp3.1\MundoNews.DistributedService.runtimeconfig.dev.json
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\bin\Debug\netcoreapp3.1\MundoNews.DistributedService.dll
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\bin\Debug\netcoreapp3.1\MundoNews.DistributedService.pdb
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\bin\Debug\netcoreapp3.1\MundoNews.Domain.dll
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\bin\Debug\netcoreapp3.1\MundoNews.Domain.pdb
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\obj\Debug\netcoreapp3.1\MundoNews.DistributedService.csproj.AssemblyReference.cache
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\obj\Debug\netcoreapp3.1\MundoNews.DistributedService.AssemblyInfoInputs.cache
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\obj\Debug\netcoreapp3.1\MundoNews.DistributedService.AssemblyInfo.cs
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\obj\Debug\netcoreapp3.1\MundoNews.DistributedService.csproj.CoreCompileInputs.cache
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\obj\Debug\netcoreapp3.1\MundoNews.DistributedService.csproj.CopyComplete
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\obj\Debug\netcoreapp3.1\MundoNews.DistributedService.dll
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\obj\Debug\netcoreapp3.1\MundoNews.DistributedService.pdb
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.DistributedService\obj\Debug\netcoreapp3.1\MundoNews.DistributedService.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.Domain\bin\Debug\netcoreapp3.1\MundoNews.Domain.deps.json
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.Domain\bin\Debug\netcoreapp3.1\MundoNews.Domain.runtimeconfig.json
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.Domain\bin\Debug\netcoreapp3.1\MundoNews.Domain.runtimeconfig.dev.json
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.Domain\bin\Debug\netcoreapp3.1\MundoNews.Domain.dll
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.Domain\bin\Debug\netcoreapp3.1\MundoNews.Domain.pdb
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.Domain\obj\Debug\netcoreapp3.1\MundoNews.Domain.AssemblyInfoInputs.cache
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.Domain\obj\Debug\netcoreapp3.1\MundoNews.Domain.AssemblyInfo.cs
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.Domain\obj\Debug\netcoreapp3.1\MundoNews.Domain.csproj.CoreCompileInputs.cache
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.Domain\obj\Debug\netcoreapp3.1\MundoNews.Domain.dll
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.Domain\obj\Debug\netcoreapp3.1\MundoNews.Domain.pdb
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews.Domain\obj\Debug\netcoreapp3.1\MundoNews.Domain.genruntimeconfig.cache

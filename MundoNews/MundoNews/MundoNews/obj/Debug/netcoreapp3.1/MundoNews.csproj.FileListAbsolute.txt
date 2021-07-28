@@ -45,6 +45,7 @@ C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\b
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\NewsAPI.dll
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
@@ -60,6 +61,10 @@ C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\b
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\MundoNews.DistributedService.dll
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\MundoNews.Domain.dll
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\MundoNews.DistributedService.pdb
+C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\MundoNews.Domain.pdb
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\obj\Debug\netcoreapp3.1\MundoNews.csproj.AssemblyReference.cache
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\obj\Debug\netcoreapp3.1\MundoNews.AssemblyInfoInputs.cache
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\obj\Debug\netcoreapp3.1\MundoNews.AssemblyInfo.cs
@@ -90,4 +95,3 @@ C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\o
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\obj\Debug\netcoreapp3.1\MundoNews.dll
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\obj\Debug\netcoreapp3.1\MundoNews.pdb
 C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\obj\Debug\netcoreapp3.1\MundoNews.genruntimeconfig.cache
-C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\bin\Debug\netcoreapp3.1\NewsAPI.dll

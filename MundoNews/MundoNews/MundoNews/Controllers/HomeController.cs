@@ -1,13 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using MundoNews.Models;
-using MundoNews.Models.DataObjects;
-using MundoNews.Services.Int;
-using System;
+using MundoNews.DistributedService.Services.Int;
+using MundoNews.Domain.Models;
+using MundoNews.Domain.Models.DataObjects;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace MundoNews.Controllers
 {

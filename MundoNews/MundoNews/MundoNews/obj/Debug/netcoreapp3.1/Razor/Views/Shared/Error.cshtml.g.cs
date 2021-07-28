@@ -21,13 +21,13 @@ using MundoNews;
 #nullable disable
 #nullable restore
 #line 2 "C:\Users\odali\source\repos\josephpatri\Personal\MundoNews\MundoNews\MundoNews\Views\_ViewImports.cshtml"
-using MundoNews.Models;
+using MundoNews.Domain.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6a5625cc8fb4476f348b0fe9041c550465d8bf9", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ebcabff429e7549878a7a0da7f35a0a5bcde8efd", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e9885c167a237eea5aa7b7d636fe51281be09fca", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
